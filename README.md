@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuno José del Pino Escalante</h1>
 <h3 align="center">Software Engineering student at Universidad de Sevilla</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno2003&label=Profile%20views&color=0e75b6&style=flat" alt="nuno2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno1610&label=Profile%20views&color=0e75b6&style=flat" alt="nuno1610" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuno2003" alt="nuno2003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuno1610" alt="nuno1610" /></a> </p>
 
 - Petris Board Game [Petris](https://github.com/Nuno2003/DP1-2024-2025-PETRIS)
 
