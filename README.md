@@ -93,12 +93,11 @@ Soy estudiante de último año del **Grado en Ingeniería Informática del Softw
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nuno1610&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Nuno1610&theme=flat&no-frame=true&margin-w=15)](https://github.com/Nuno1610)
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuno1610&show_icons=true&locale=en&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuno1610&layout=compact&theme=transparent&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuno1610&show_icons=true&locale=es&theme=transparent&hide_border=true)](https://github.com/Nuno1610)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno1610&layout=compact&theme=transparent&hide_border=true)](https://github.com/Nuno1610)
 
 </div>
