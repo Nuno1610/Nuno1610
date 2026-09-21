@@ -86,18 +86,3 @@ Soy estudiante de último año del **Grado en Ingeniería Informática del Softw
 ### Hardware y Robótica
 *   🤖 **[Brazo Robótico Mk3](https://github.com/Nuno2003/Brazo-Robotico-Mk3):** Diseño, ensamblaje y programación de un brazo robótico articulado multifuncional.
 *   🚗 **[Vehículo IoT Controlado por Acelerómetro](https://github.com/Nuno2003/Coche-controlado-con-acelerometro):** Coche teledirigido que integra los sensores inerciales de un dispositivo móvil para su conducción y control remoto.
-
----
-
-## 📊 Métricas de Desarrollo
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Nuno1610&theme=flat&no-frame=true&margin-w=15)](https://github.com/Nuno1610)
-
-<br>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuno1610&show_icons=true&locale=es&theme=transparent&hide_border=true)](https://github.com/Nuno1610)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno1610&layout=compact&theme=transparent&hide_border=true)](https://github.com/Nuno1610)
-
-</div>
