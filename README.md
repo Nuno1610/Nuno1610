@@ -1,28 +1,115 @@
-<h1 align="center">Hi 👋, I'm Nuno José del Pino Escalante</h1>
-<h3 align="center">Software Engineering student at Universidad de Sevilla</h3>
+<h1 align="center">Nuno José del Pino Escalante 👨‍💻</h1>
+<h3 align="center">Software Engineer | Full Stack Developer & AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno1610&label=Profile%20views&color=0e75b6&style=flat" alt="nuno1610" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuno1610" alt="nuno1610" /></a> </p>
-
-- Petris Board Game [Petris](https://github.com/Nuno2003/DP1-2024-2025-PETRIS)
-
-- AI that plays othello board game [Othello](https://github.com/Nuno2003/Othello)
-
-- Program for veterinary clinic [Petclinic](https://github.com/Nuno2003/PSG2-2023-2024-PETCLINIC)
-
-- Robotic Arm [Brazo Robotico Mk3](https://github.com/Nuno2003/Brazo-Robotico-Mk3)
-
-- Car controled with app [Coche controlado con acelerometro](https://github.com/Nuno2003/Coche-controlado-con-acelerometro)
-
-- You can contact me: **nunodelpino@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nuno-jos%c3%a9-del-pino-escalante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuno-jos%c3%a9-del-pino-escalante" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/nuno-josé-del-pino-escalante" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nunodelpino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/nuno1610">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuno2003&show_icons=true&locale=en" alt="nuno2003" /></p>
+## 👨‍💻 Sobre mí
+
+Soy estudiante de último año del **Grado en Ingeniería Informática del Software** en la Universidad de Sevilla, a un paso de obtener el título. Actualmente me encuentro cursando mi última asignatura (Procesamiento de Señales Multimedia) y desarrollando mi Trabajo de Fin de Grado (TFG), a la par que certifico mi nivel B2 de inglés.
+
+Me considero un desarrollador versátil, con capacidad para diseñar arquitecturas completas de software. Mi experiencia académica y personal me ha permitido trabajar en:
+- **Desarrollo Backend y Frontend:** Creación de aplicaciones web escalables, APIs RESTful y plataformas SaaS Multitenant.
+- **Inteligencia Artificial:** Implementación de modelos de Machine Learning, redes neuronales convolucionales y algoritmos de búsqueda heurística (MCTS).
+- **Robótica y Hardware:** Integración de software con componentes físicos, uso de sensores y microcontroladores.
+
+Busco aplicar mis conocimientos técnicos en entornos profesionales desafiantes, aportando soluciones eficientes y manteniendo un aprendizaje continuo.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### ⚙️ Backend & Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+</p>
+
+### 💻 Frontend & Móvil
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+### 🧠 Inteligencia Artificial & Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+</p>
+
+### 🔧 DevOps, Herramientas y Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🌐 Ingeniería de Software y Arquitectura Web
+*   **[NexUS (2026)](https://github.com/ispp-g7-nexus/7-NexUS) | Plataforma SaaS Multitenant**
+    *   *Arquitectura:* Desarrollo de un SaaS para la gestión de residencias universitarias.
+    *   *Características:* Sistema de reservas, analíticas avanzadas, comunicación en tiempo real y algoritmo de *matching* de compañeros asistido por IA.
+    *   *Tecnologías:* React, TypeScript, Vite, Django (DRF), PostgreSQL, Redis, Celery, Docker, Nginx.
+*   **[Vians Fashion (2025)](https://github.com/Javiergutpas/PGPI-TiendaVirtual) | E-Commerce**
+    *   *Desarrollo:* Tienda virtual completa con lógica de personalización de prendas y gestión de inventario.
+    *   *Integraciones:* Pasarela de pagos online (Stripe) y automatización de facturas en PDF (ReportLab).
+    *   *Tecnologías:* Python, Django, SQLite, Bootstrap, Stripe API.
+*   **[Petris (2024)](https://github.com/Javiergutpas/DP1-Petris) | Aplicación Web Interactiva**
+    *   *Desarrollo:* Juego multijugador online basado en arquitectura monolítica con frontend desacoplado.
+    *   *Características:* Autenticación JWT, ranking en tiempo real, estadísticas de usuario y consumo de APIs REST.
+    *   *Tecnologías:* Java, Spring Boot, React, Maven, Docker, JUnit.
+
+### 🧠 Inteligencia Artificial
+*   **[Otelo AI (2026)](https://github.com/Nuno1610/Otelo) | Agente Inteligente**
+    *   *Problema:* Desarrollo de un motor capaz de evaluar y jugar partidas del juego de mesa Otelo al más alto nivel.
+    *   *Solución:* Implementación de árboles de búsqueda de Monte Carlo (MCTS) combinados con Redes Neuronales Convolucionales (CNN) para la evaluación de estados de tablero.
+    *   *Tecnologías:* Python, TensorFlow, Keras, scikit-learn, NumPy.
+
+### 🤖 Hardware y Robótica
+*   **[Brazo Robótico Mk3](https://github.com/Nuno2003/Brazo-Robotico-Mk3):** Diseño, ensamblaje y programación de un brazo robótico articulado multifuncional.
+*   **[Vehículo IoT Controlado por Acelerómetro](https://github.com/Nuno2003/Coche-controlado-con-acelerometro):** Coche teledirigido integrando sensores inerciales móviles para su conducción remota.
+
+---
+
+## 📊 Métricas de Desarrollo
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nuno1610&theme=flat&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuno1610&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno1610&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2" alt="Top Languages" />
+</div>
