@@ -80,7 +80,7 @@ Soy estudiante de último año del **Grado en Ingeniería Informática del Softw
 ### Desarrollo de Software e IA
 *   🏢 **[NexUS · 2026](https://github.com/Nuno1610/ISPP-Nexus):** Plataforma SaaS multitenant para la gestión de residencias universitarias. Integra herramientas de comunicación, gestión de reservas, analíticas avanzadas y un sistema de matching de compañeros asistido por IA. *(React, TypeScript, Django, PostgreSQL, Docker)*.
 *   🧠 **[Otelo · 2026](https://github.com/Nuno1610/Otelo):** Agente inteligente desarrollado para jugar al juego de estrategia Otelo. Emplea algoritmos de búsqueda Monte Carlo Tree Search (MCTS), UCT y está entrenado con Redes Neuronales Convolucionales (CNN). *(Python, TensorFlow, Keras, scikit-learn)*.
-*   🛍️ **[Vians Fashion · 2025](https://github.com/Nuno1610/PGPI-TiendaVirtual):** Plataforma de comercio electrónico (e-commerce) para la personalización de prendas de ropa. Cuenta con un flujo completo de gestión de pedidos, integración de pagos online y generación automatizada de facturas. *(Django, SQLite, Bootstrap, Stripe)*.
+*   🛍️ **[Vians Fashion · 2025](https://github.com/Nuno1610/PGPI-ViansFashion):** Plataforma de comercio electrónico (e-commerce) para la personalización de prendas de ropa. Cuenta con un flujo completo de gestión de pedidos, integración de pagos online y generación automatizada de facturas. *(Django, SQLite, Bootstrap, Stripe)*.
 *   🎮 **[Petris · 2024](https://github.com/Nuno1610/DP1-Petris):** Aplicación web full stack que permite partidas multijugador online. Implementa un sistema de autenticación seguro, registro de estadísticas en tiempo real y clasificaciones (rankings). *(Spring Boot, React, H2, Docker)*.
 
 ### Hardware y Robótica
